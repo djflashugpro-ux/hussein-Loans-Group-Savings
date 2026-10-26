@@ -1,0 +1,8 @@
+{
+  "name": "Hussien Loans Group",
+  "description": "Mobile loan application app for Hussien Loans Group — Helping You Move Forward. Apply for personal and business loans in UGX, upload supporting documents, and track approval status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
